@@ -1,0 +1,7 @@
+#solicitar los datos
+velocidad=float(input("ingrese la velocidad en m/s:"))
+tiempo=float(input("ingrese el tiempo en segundo:"))
+#calcular el distancia
+distancia=(velocidad * tiempo)
+print("La distancia recorrida es:",distancia, "metros")
+print("hola")
