@@ -1,1 +1,1 @@
-print("te amo hijo mio" + "Eres todo para mi")
+print("te amo hijo mio" + "Eres todo para mi + "te amo")
