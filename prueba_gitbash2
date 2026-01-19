@@ -5,3 +5,5 @@ tiempo=float(input("ingrese el tiempo en segundo:"))
 distancia=(velocidad * tiempo)
 print("La distancia recorrida es:",distancia, "metros")
 print("hola")
+
+print ("practicando el git stash y haciendo los cambios necesarios")
