@@ -18,4 +18,4 @@ elif promedio > 7 and promedio <= 10:
     
 else:
  print("Debes redir finales")
-        
+ print("login")  
